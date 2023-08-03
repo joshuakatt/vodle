@@ -2,7 +2,7 @@
   My Contributions to Vodle!*
 
   I've worked on vodle to help refactor the rendering of styles across the application.
-  I've reviewed a lot of code on this project, refactored it according to the requirements, and made dark themes/and infinate others possible!
+  I've reviewed code on this project, refactored it according to the requirements, introduced the necessary changes, and made dark themes/and infinate others possible!
   More than anything, super grateful to be able to work on such an interesting project. Genuinely can't wait for the first-release and I know how much potential this has!
 </div>
 
