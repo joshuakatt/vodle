@@ -1,5 +1,5 @@
 <div>
-## *My Contributions to Vodle!*
+  My Contributions to Vodle!*
 
   I've worked on vodle to help refactor the rendering of styles across the application.
   I've reviewed a lot of code on this project, refactored it according to the requirements, and made dark themes/and infinate others possible!
